@@ -1,11 +1,11 @@
 ---
 title: Blumiwave
 permalink: /installations/blumiwave/
-description: ""
+description: "Blumiwave by DP Design"
 ---
 <p style="font-size:17px; line-height:40px">
 	
-<img src="/images/Installations/RL%20Images/blumiwave-min.jpeg">
+<img src="/images/Installations/RL%20Images/blumiwave-min.jpeg"  alt="Blumiwave by DP Design">
 <b>Blumiwave</b><br>
 DP Design (Singapore)<br>
 <b>Location:</b> Mist Walk
