@@ -1,10 +1,10 @@
 ---
 title: Aquatics
 permalink: /installations/aquatics/
-description: ""
+description: "Aquatics by Philipp Artus"
 ---
 <p style="font-size:17px; line-height:40px">
-<img src="/images/Installations/RL%20Images/01062023_pico_colossal_upload_clean_135-min.jpg">
+<img src="/images/Installations/RL%20Images/01062023_pico_colossal_upload_clean_135-min.jpg" alt="Aquatics by Philipp Artus">
 <b>Aquatics</b><br>
 Philipp Artus (Germany)<br>
 <b>Location:</b> Under Esplanade Bridge (near Merlion Park)<br><br>
