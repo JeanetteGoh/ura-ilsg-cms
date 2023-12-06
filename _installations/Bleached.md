@@ -1,10 +1,10 @@
 ---
 title: Bleached
 permalink: /installations/bleached/
-description: ""
+description: "Bleached by Berenice Chao Zong Xin, Nicky Josephine Tjandra"
 ---
 <p style="font-size:17px; line-height:40px">
-<img src="/images/Installations/RL%20Images/bleached-min.jpg">
+<img src="/images/Installations/RL%20Images/bleached-min.jpg" alt="Bleached by Berenice Chao Zong Xin, Nicky Josephine Tjandra">
 	<b>Bleached</b><br>
 Berenice Chao Zong Xin, Nicky Josephine Tjandra&nbsp;
 <br>
