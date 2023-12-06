@@ -1,10 +1,10 @@
 ---
 title: Block Party
 permalink: /installations/blockparty/
-description: ""
+description: "Block Party by Jeremy Lin, Jedy Chen, Dexter Hong"
 ---
 <p style="font-size:17px; line-height:40px"> 
-<img src="/images/Installations/RL%20Images/01062023_pico_colossal_upload_clean_059-min.jpg">
+<img src="/images/Installations/RL%20Images/01062023_pico_colossal_upload_clean_059-min.jpg" alt="Block Party by Jeremy Lin, Jedy Chen, Dexter Hong">
 	<b>Block Party</b><br>
 Jeremy Lin, Jedy Chen, Dexter Hong&nbsp;<br>
 Plug &amp; Play (Singapore)&nbsp;
